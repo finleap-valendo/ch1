@@ -8,11 +8,11 @@ Together with this document we provide `src` directory containing source code, w
 
 Implement the task as described below. You can start whenever you like and send us the result once you are done.
 Add documentation like you would in a real project. Bring the code to a production standard (not more, not less).
-Do not spend more than 2 hours on this exercise.
+Do not spend more than 3 hours on this exercise.
 
 ## Return
 
-Start by forking this project to  your bitbucket account. tAfter you have finished the task, send a pull request to this repository. Please tell us how much time you have spent on the task. Also provide any external library that you have used.
+Start by forking this project to  your github  account. After you have finished the task, send a pull request to this repository.
 
 ## Scenario
 
